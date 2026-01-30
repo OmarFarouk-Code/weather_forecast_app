@@ -1,0 +1,5 @@
+These are the underlying technologies and constraints required to run the app.
+
+Language: Built using Python 3.x.
+Libraries: Requires requests, tkinter, and python-dotenv.
+Dependencies: Must have a valid OpenWeatherMap API key and an internet connection.
